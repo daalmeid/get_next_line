@@ -4,4 +4,4 @@ to open and close the fd, that is the responsability of the calling program. If 
 read the whole file until it finds a null-terminator ('\0'). Caution: the line returned is **heap-allocated**, you
 need to free it to avoid memory leaks.
 
-To use it, just add the files to your project. I hope it is helpful for your projects!
+To use it, just add the files to your project. I hope you find it helpful!
